@@ -3,4 +3,5 @@
 ---
 You can find it [through this link](https://www.markdowntutorial.com/).
 
-_Italic_
+_Italic_ and **Bold**
+
