@@ -1,4 +1,4 @@
-# 29 sep.2021
+# 29,30 sep.2021
 ### NDG Linux Unhatched 1:13
 ---
 You can find it [through this link](https://www.netacad.com/courses/os-it/ndg-linux-unhatched).
