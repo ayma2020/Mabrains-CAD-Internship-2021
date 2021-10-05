@@ -1,4 +1,4 @@
-# vim Text Editor Toturial
+# vim Text Editor Tutorial
 ### If we connect on Linux machine on cloud like Amazon, then GUI text editor like gedit will not be available so vim is the premier text editor for Linux.
 ---
 #### Open txt file using vi
